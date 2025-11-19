@@ -3,8 +3,8 @@ layout: post
 title: 'Polyglot AI Agents: WebAssembly Meets the JVM'
 date: 2025-11-19T00:00:00Z
 tags: ai llm agents wasm jvm
-synopsis: 'Polyglot AI Agents: WebAssembly Meets the JVM'
-author: andreatp mariofusco
+synopsis: 'Showcase how to run multi-language WebAssembly AI agents in a self-contained, enterprise-ready way with Quarkus'
+author: andreatp, mariofusco
 ---
 :imagesdir: /assets/images/posts/agentic
 
